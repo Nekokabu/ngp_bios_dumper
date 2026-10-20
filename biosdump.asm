@@ -2,7 +2,7 @@
 ; NGP / NGPC BIOS DUMPER
 ;
 ;   Reads the 64 KB internal BIOS ROM (0xFF0000-0xFFFFFF) and writes it into
-;   the cartridge flash, so it can be read back on a PC with Flash Masta.
+;   the cartridge flash, so it can be read back on a PC with FlashMasta software.
 ;
 ;     Neo Geo Pocket (mono)   -> cart offset 0x010000-0x01FFFF
 ;     Neo Geo Pocket Color    -> cart offset 0x040000-0x04FFFF
