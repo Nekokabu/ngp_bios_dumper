@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Cut the BIOS dumps out of a cartridge backup made with Flash Masta.
+"""Cut the BIOS dumps out of a cartridge backup made with FlashMasta software.
 
     python3 extract.py cart_backup.ngp
 
